@@ -1,6 +1,6 @@
 # 🔰 Model Context Protocol Badges
 
-Boast your project's identity with [MCP](https://modelcontextprotocol.io) Badges – instantly recognizable.
+Quickly highlight your [MCP](https://modelcontextprotocol.io) project with clear, eye-catching badges
 
 ## How to？
 
