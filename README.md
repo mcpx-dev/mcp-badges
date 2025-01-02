@@ -8,12 +8,12 @@ Badges come in two types: `server` (default) and `client`，both accepting a `fe
 
 ### Server Badges 
 
-![MCP server](https://badge.mcpx.dev 'MCP Server') 
+![](https://badge.mcpx.dev 'MCP Server') 
 
 - `![](https://badge.mcpx.dev 'MCP Server')` 
 - `<img src="https://badge.mcpx.dev" title="MCP Server"/>`
 
-![MCP server with features](https://badge.mcpx.dev?features=resources,tools 'MCP server with features') 
+![](https://badge.mcpx.dev?features=resources,tools 'MCP server with features') 
 
 - `![](https://badge.mcpx.dev?features=resources,tools 'MCP server with features')`
 - `<img src="https://badge.mcpx.dev?features=resources,tools" title="MCP server with features/>`
@@ -32,7 +32,7 @@ Badges come in two types: `server` (default) and `client`，both accepting a `fe
 
 ![](https://badge.mcpx.dev?type=client&features=prompts,tools 'MCP client with features') 
 
-- `![MCP client with features](https://badge.mcpx.dev?type=client&features=prompts,tools)`
+- `![](https://badge.mcpx.dev?type=client&features=prompts,tools 'MCP client with features')`
 - `<img src="https://badge.mcpx.dev?type=client&features=prompts,tools" title="MCP client with features"/>`
 - Features supported by the MCP client
   - resources
