@@ -33,7 +33,7 @@ Badges come in two types: `server` (default) and `client`，both accepting a `fe
 ![](https://badge.mcpx.dev?type=client&features=prompts,tools 'MCP client with features') 
 
 - `![MCP client with features](https://badge.mcpx.dev?type=client&features=prompts,tools)`
-- `!<img src="https://badge.mcpx.dev?type=client&features=prompts,tools" title="MCP client with features"/>`
+- `<img src="https://badge.mcpx.dev?type=client&features=prompts,tools" title="MCP client with features"/>`
 - Features supported by the MCP client
   - resources
   - prompts
