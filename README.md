@@ -34,8 +34,8 @@ There are four types of badges: `default`, `server`, `client`, and `dev`. The `d
 
 ![](https://badge.mcpx.dev?type=server&features=resources,tools 'MCP server with features') 
 
-- `![](https://badge.mcpx.dev?features=resources,tools 'MCP server with features')`
-- `<img src="https://badge.mcpx.dev?features=resources,tools" title="MCP server with features/>`
+- `![](https://badge.mcpx.dev?type=server&features=resources,tools 'MCP server with features')`
+- `<img src="https://badge.mcpx.dev?type=server&features=resources,tools" title="MCP server with features/>`
 - Features supported by the MCP server
   - resources
   - prompts
